@@ -1,0 +1,12 @@
+Backend Dependences:
+npm i express bcrypt body-parser concurrently  cookie-parser date-and-time dotenv formidable jsonwebtoken mongoose nodemailer validator
+
+Dev Dependences:
+npm i nodemon -D
+
+Create React app:
+npx create-react-app frontend
+
+Frontend Dependences:
+npm i apexcharts axios jodit jodit-react jwt-decode moment html-to-text node-sass react-apexcharts react-facebook-login react-google-login react-helmet react-hot-toast react-html-parser react-icons react-redux react-router-dom@5 redux redux-thunk @emailjs/browser 
+
